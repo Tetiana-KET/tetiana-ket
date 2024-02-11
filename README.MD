@@ -35,7 +35,7 @@ Hangman-game              |   [Hangman-game](https://rolling-scopes-school.githu
 Coffee-house              |   [Coffee-house](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/coffee-house/pages/Home/index.html)
 Library                   |   [Library](https://tetiana-ket.github.io/Library/)
 Css Bayan                 |   [Css Bayan](https://tetiana-ket.github.io/cssBayan/cssBayan/index.html)
-Plants                    |   [Plants](https://rolling-scopes-school.github.io/tetiana-ket-JSFEPRESCHOOL2022Q4/Plants/pages/main/index.html/)
+Plants                    |   [Plants](https://rolling-scopes-school.github.io/tetiana-ket-JSFEPRESCHOOL2022Q4/Plants/pages/main/index.html)
 Virtual-keyboard          |   [Virtual-keyboard](https://tetiana-ket.github.io/virtual-keyboard/src/index.html)
 Shelter                   |   [Shelter](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/shelter/pages/main/index.html)
 Minesweeper               |   [CssMemSlider](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/minesweeper/dist/index.html)
