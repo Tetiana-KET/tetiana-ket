@@ -1,6 +1,6 @@
-## Hello, [I'm Tatiana] [https://youtu.be/uJQMlCJasOU]
+## Hello, I'm Tatiana, a passionate newcomer to the world of frontend development!
 
-### I'am a passionate newcomer to the world of frontend development!
+### **[Link to my Video CV](https://youtu.be/uJQMlCJasOU)**
 
 ## My Contacts
 
@@ -25,3 +25,18 @@ Currently I am taking the RS School Front-end course. And I'am going to continue
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]
 [<img align="left" alt="JavaScript" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>]
+
+### My Projects
+
+ Project title            |   Deploy link
+--------------------------|:-----------------------:
+Nonograms-game            |   [Nonograms-game](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/nonograms/index.html)
+Hangman-game              |   [Hangman-game](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/hangman/index.html)
+Coffee-house              |   [Coffee-house](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/coffee-house/pages/Home/index.html)
+Library                   |   [Library](https://tetiana-ket.github.io/Library/)
+Css Bayan                 |   [Css Bayan](https://tetiana-ket.github.io/cssBayan/cssBayan/index.html)
+Plants                    |   [Plants](https://rolling-scopes-school.github.io/tetiana-ket-JSFEPRESCHOOL2022Q4/Plants/pages/main/index.html/)
+Virtual-keyboard          |   [Virtual-keyboard](https://tetiana-ket.github.io/virtual-keyboard/src/index.html)
+Shelter                   |   [Shelter](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/shelter/pages/main/index.html)
+Minesweeper               |   [CssMemSlider](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/minesweeper/dist/index.html)
+Travel                    |   [Travel](https://tetiana-ket.github.io/Travel/)
