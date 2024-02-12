@@ -33,6 +33,8 @@
 
 ## My Projects
 
+<img align="left" alt="VC Code" width="50px" src="https://prnt.sc/SLFT9W4PuHJL"/>
+
 
 [![Nonograms-game](./img/nonogramg.png =100x100)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/nonograms/index.html)
 [![Hangman-game](./img/hangman.png =100x100)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/hangman/index.html)
