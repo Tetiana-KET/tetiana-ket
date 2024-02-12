@@ -1,15 +1,16 @@
-## Hello, I'm Tatiana, a passionate newcomer to the world of frontend development!
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=171084&background=5BE0FF00&random=false&width=435&lines=Hello%2C+I'm+Tatiana%2C+a+passionate+newcomer+to+the+world+of+frontend+development!)](https://git.io/typing-svg)
 
 ### **[Link to my Video CV](https://youtu.be/uJQMlCJasOU)**
 
 ## My Contacts
 
 * __Location:__ Ukraine
-* __E-mail:__   [belangelphone@gmail.com](mailto:belangelphone@gmail.com){:target="_blank"}
-* __Phone:__    [+380505551402](tel:+380505551402){:target="_blank"}
-* __Discord:__  [Tetiana-KET](https://discordapp.com/users/674720964143218723){:target="_blank"}
-* __Telegram:__ [Send me a message in telegram](https://t.me/Tatiana_1000_Dribnyz){:target="_blank"}
-* __GitHub:__   [Tetiana-KET](https://github.com/Tetiana-KET){:target="_blank"}
+* __E-mail:__   <a href="mailto:belangelphone@gmail.com" target="_blank" rel="noopener noreferrer">belangelphone@gmail.com</a>
+* __Phone:__    <a href="tel:+380505551402" target="_blank" rel="noopener noreferrer">+380505551402</a>
+* __Discord:__  <a href="https://discord.com/channels/@me" target="_blank" rel="noopener noreferrer">Tetiana-KET#0920</a>
+* __Telegram:__ <a href="https://t.me/Tatiana_1000_Dribnyz" target="_blank" rel="noopener noreferrer">@Tatiana_1000_Dribnyz</a>
+* __GitHub:__   <a href="https://github.com/Tetiana-KET" target="_blank" rel="noopener noreferrer">Tetiana-KET</a>
+
 
 ## About Me
 
@@ -22,10 +23,10 @@ Currently I am taking the RS School Front-end course. And I'am going to continue
 
 ## Skills and tools
 
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="display: inline-block"/>
-<img alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="display: inline-block"/>
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="display: inline-block"/>
-<img alt="JavaScript" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" style="display: inline-block"/>
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="display:inline"/>
+<img alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="display:inline"/>
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="display:inline"/>
+<img alt="JavaScript" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" style="display:inline"/>
 
 
 ## My Projects
