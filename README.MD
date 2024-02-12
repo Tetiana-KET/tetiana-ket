@@ -15,10 +15,12 @@
 
 ## About Me
 
-- 🎓 I graduated with a degree in __foreign languages__ from Fedkovech Chernovtsy University. 
-- ✈️ My journey into coding began accidentally, for fun. But, I found myself drawn to the magic of JavaScript. 
-- 💻 Currently, I am taking the __RS School Front-end course__ and I'm excited to continue my journey into the world of IT
-- 🌟 __I believe that each challenge is an opportunity for growth and learning, and I'm committed to embracing them along my journey.__
+<ul style="list-style-type: none;">
+  <li>🎓 I graduated with a degree in <strong>foreign languages</strong> from Fedkovech Chernovtsy University.</li>
+  <li>✈️ My journey into coding began accidentally, for fun. But, I found myself drawn to the magic of JavaScript.</li>
+  <li>💻 Currently, I am taking the <strong>RS School Front-end course</strong> and I'm excited to continue my journey into the world of IT.</li>
+  <li>🌟 <strong>I believe that each challenge is an opportunity for growth and learning, and I'm committed to embracing them along my journey.</strong></li>
+</ul>
 
 
 ## Skills and tools
