@@ -41,47 +41,14 @@
 <img align="left" alt="VC Code" width="26px" src="https://code.visualstudio.com/assets/favicon.ico"/>
 <img alt="codewars" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
 
-<div style="display: inline-block; border-radius: 50%; overflow: hidden;">
-  [![Nonograms-game](./img/nonogramg.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/nonograms/index.html)
-</div>
-
-<div style="display: inline-block; border-radius: 50%; overflow: hidden;">
-  [![Hangman-game](./img/hangman.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/hangman/index.html)
-</div>
-
-<div style="display: inline-block; border-radius: 50%; overflow: hidden;">
-  [![Coffee-house](./img/coffee.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/coffee-house/pages/Home/index.html)
-</div>
-
-<div style="display: inline-block; border-radius: 50%; overflow: hidden;">
-  [![Library](./img/library.png)](https://tetiana-ket.github.io/Library/)
-</div>
-
-<div style="display: inline-block; border-radius: 50%; overflow: hidden;">
-  [![Css Bayan](./img/mem.png)](https://tetiana-ket.github.io/cssBayan/cssBayan/index.html)
-</div>
-
-<div style="display: inline-block; border-radius: 50%; overflow: hidden;">
-  [![Plants](./img/plants.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFEPRESCHOOL2022Q4/Plants/pages/main/index.html)
-</div>
-
-<div style="display: inline-block; border-radius: 50%; overflow: hidden;">
-  [![Virtual-keyboard](./img/keyboard.png)](https://tetiana-ket.github.io/virtual-keyboard/src/index.html)
-</div>
-
-<div style="display: inline-block; border-radius: 50%; overflow: hidden;">
-  [![Shelter](./img/shelter.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/shelter/pages/main/index.html)
-</div>
-
-<div style="display: inline-block; border-radius: 50%; overflow: hidden;">
-  [![Minesweeper](./img/minesweeper.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/minesweeper/dist/index.html)
-</div>
-
-<div style="display: inline-block; border-radius: 50%; overflow: hidden;">
-  [![Travel](./img/travel.png)](https://tetiana-ket.github.io/Travel/)
-</div>
-
-<div style="display: inline-block; border-radius: 50%; overflow: hidden;">
-  [![Online-zoo](./img/zoo.png)](https://tetiana-ket.github.io/online-zoo/pages/main/index.html)
-</div>
-
+[![Nonograms-game](./img/nonogramg.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/nonograms/index.html)
+[![Hangman-game](./img/hangman.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/hangman/index.html)
+[![Coffee-house](./img/coffee.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/coffee-house/pages/Home/index.html)
+[![Library](./img/library.png)](https://tetiana-ket.github.io/Library/)
+[![Css Bayan](./img/mem.png)](https://tetiana-ket.github.io/cssBayan/cssBayan/index.html)
+[![Plants](./img/plants.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFEPRESCHOOL2022Q4/Plants/pages/main/index.html)
+[![Virtual-keyboard](./img/keyboard.png)](https://tetiana-ket.github.io/virtual-keyboard/src/index.html)
+[![Shelter](./img/shelter.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/shelter/pages/main/index.html)
+[![Minesweeper](./img/minesweeper.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/minesweeper/dist/index.html)
+[![Travel](./img/travel.png)](https://tetiana-ket.github.io/Travel/)
+[![Online-zoo](./img/zoo.png)](https://tetiana-ket.github.io/online-zoo/pages/main/index.html)
