@@ -33,6 +33,14 @@
 
 ## My Projects
 
+
+<img align="left" alt="Nonograms-game" width="50px" src="./img/nonogramg.png/>
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
+<img align="left" alt="VC Code" width="26px" src="https://code.visualstudio.com/assets/favicon.ico"/>
+<img alt="codewars" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
+
 <div style="display: inline-block; border-radius: 50%; overflow: hidden;">
   [![Nonograms-game](./img/nonogramg.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/nonograms/index.html)
 </div>
