@@ -1,6 +1,6 @@
 ## Hello, I'm Tatiana! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=Hello%2C+A+passionate+newcomer+to+the+world+of+frontend+development!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=I+am+a+passionate+newcomer+to+the+world+of+frontend+development!)](https://git.io/typing-svg)
 
 ### [🎥 Link to my Video CV](https://youtu.be/uJQMlCJasOU)
 
@@ -15,13 +15,18 @@
 
 ## About Me
 
-🎓 I graduated with a degree in foreign languages from Fedkovech Chernovtsy University. 
-✈️ My journey into coding began accidentally, for fun. But, I found myself drawn to the magic of JavaScript. 
-💻 Currently, I am taking the RS School Front-end course and I'm excited to continue my journey into the world of IT
-🌟 I believe that each challenge is an opportunity for growth and learning, and I'm committed to embracing them along my journey.
+* 🎓 I graduated with a degree in __foreign languages__ from Fedkovech Chernovtsy University. 
+* ✈️ My journey into coding began accidentally, for fun. But, I found myself drawn to the magic of JavaScript. 
+* 💻 Currently, I am taking the __RS School Front-end course__ and I'm excited to continue my journey into the world of IT
+* 🌟 __I believe that each challenge is an opportunity for growth and learning, and I'm committed to embracing them along my journey.__
 
 
 ## Skills and Tools
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
 
 ![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png) | ![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png) | ![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) | ![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) | ![VS Code](https://code.visualstudio.com/assets/favicon.ico)
 
