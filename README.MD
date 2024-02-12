@@ -5,11 +5,11 @@
 ## My Contacts
 
 * __Location:__ Ukraine
-* __E-mail:__   [belangelphone@gmail.com](mailto:belangelphone@gmail.com)
-* __Phone:__    [+380505551402](tel:+380505551402)
-* __Discord:__  [Tetiana-KET](https://discordapp.com/users/674720964143218723)
-* __Telegram:__ [Send me a message in telegram](https://t.me/Tatiana_1000_Dribnyz)
-* __GitHub:__   [Tetiana-KET](https://github.com/Tetiana-KET)
+* __E-mail:__   [belangelphone@gmail.com](mailto:belangelphone@gmail.com){:target="_blank"}
+* __Phone:__    [+380505551402](tel:+380505551402){:target="_blank"}
+* __Discord:__  [Tetiana-KET](https://discordapp.com/users/674720964143218723){:target="_blank"}
+* __Telegram:__ [Send me a message in telegram](https://t.me/Tatiana_1000_Dribnyz){:target="_blank"}
+* __GitHub:__   [Tetiana-KET](https://github.com/Tetiana-KET){:target="_blank"}
 
 ## About Me
 
