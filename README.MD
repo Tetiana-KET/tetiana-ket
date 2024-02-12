@@ -5,10 +5,10 @@
 ## My Contacts
 
 * __Location:__ Ukraine
-* __E-mail:__   belangelphone@gmail.com
-* __Phone:__    +380505551402
+* __E-mail:__   [belangelphone@gmail.com](mailto:belangelphone@gmail.com)
+* __Phone:__    [+380505551402](tel:+380505551402)
 * __Discord:__  [Tetiana-KET#0920](https://discord.com/channels/@me)
-* __Telegram:__ @Tatiana_1000_Dribnyz
+* __Telegram:__ [Send me a message in telegram](https://t.me/Tatiana_1000_Dribnyz)
 * __GitHub:__  [Tetiana-KET](https://github.com/Tetiana-KET)
 
 ## About Me
@@ -27,8 +27,8 @@ Currently I am taking the RS School Front-end course. And I'am going to continue
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
 
-
 ## My Projects
+
 
  Project title            |   Deploy link
 --------------------------|:-----------------------:
