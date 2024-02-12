@@ -31,9 +31,6 @@
 <img alt="codewars" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
 
 
-## My Projects
-
-
 ## My Educational Projects
 
 | Project Title            | Deploy Link                                                        |
@@ -48,4 +45,4 @@
 | Shelter                 | [Shelter](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/shelter/pages/main/index.html) |
 | Minesweeper             | [Minesweeper](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/minesweeper/dist/index.html) |
 | Travel                  | [Travel](https://tetiana-ket.github.io/Travel/)                               |
-| Oneline-Zoo             | [Travel](https://tetiana-ket.github.io/online-zoo/pages/main/index.html)                               |
+| Oneline-Zoo             | [Oneline-Zoo ](https://tetiana-ket.github.io/online-zoo/pages/main/index.html) |
