@@ -7,7 +7,7 @@
 ## My Contacts
 
 * __Location:__ Ukraine 🇺🇦
-* __E-mail:__   [belangelphone@gmail.com](mailto:belangelphone@gmail.com)
+* __E-mail:__   [security468@gmail.com](mailto:security468@gmail.com)
 * __Phone:__    [+380505551402](tel:+380505551402)
 * __Discord:__  [Tetiana-KET](https://discordapp.com/users/674720964143218723)
 * __Telegram:__ [Send me a message in telegram](https://t.me/Tatiana_1000_Dribnyz)
