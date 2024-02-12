@@ -1,4 +1,4 @@
-## Hello, I'm Tatiana, a passionate newcomer to the world of frontend development!
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=171084&background=5BE0FF00&random=false&width=435&lines=Hello%2C+I'm+Tatiana%2C+a+passionate+newcomer+to+the+world+of+frontend+development!)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0A630C&background=5BE0FF00&random=false&width=1000&lines=Hello%2C+I'm+Tatiana%2C+a+passionate+newcomer+to+the+world+of+frontend+development!)](https://git.io/typing-svg)
 
 ### **[Link to my Video CV](https://youtu.be/uJQMlCJasOU)**
 
@@ -10,6 +10,7 @@
 * __Discord:__  [Tetiana-KET](https://discordapp.com/users/674720964143218723)
 * __Telegram:__ [Send me a message in telegram](https://t.me/Tatiana_1000_Dribnyz)
 * __GitHub:__   [Tetiana-KET](https://github.com/Tetiana-KET)
+
 
 ## About Me
 
@@ -26,6 +27,7 @@ Currently I am taking the RS School Front-end course. And I'am going to continue
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
+
 
 <div style="clear:both;"></div>
 
