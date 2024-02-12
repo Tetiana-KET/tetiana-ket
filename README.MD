@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=171084&background=5BE0FF00&random=false&width=435&lines=Hello%2C+I'm+Tatiana%2C+a+passionate+newcomer+to+the+world+of+frontend+development!)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0A630C&background=5BE0FF00&random=false&width=1000&lines=Hello%2C+I'm+Tatiana%2C+a+passionate+newcomer+to+the+world+of+frontend+development!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=Hello%2C+I'm+Tatiana%2C+a+passionate+newcomer+to+the+world+of+frontend+development!)](https://git.io/typing-svg)
 
 ### **[Link to my Video CV](https://youtu.be/uJQMlCJasOU)**
 
@@ -6,7 +6,7 @@
 
 * __Location:__ Ukraine
 * __E-mail:__   [belangelphone@gmail.com](mailto:belangelphone@gmail.com)
-* __Phone:__    [+380505551402](tel:+380505551402){:target="_blank"}
+* __Phone:__    [+380505551402](tel:+380505551402)
 * __Discord:__  [Tetiana-KET](https://discordapp.com/users/674720964143218723)
 * __Telegram:__ [Send me a message in telegram](https://t.me/Tatiana_1000_Dribnyz)
 * __GitHub:__   [Tetiana-KET](https://github.com/Tetiana-KET)
