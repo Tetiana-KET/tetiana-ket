@@ -19,14 +19,16 @@ My journey into coding wasn't a childhood dream or a calculated career move. It 
 
 Currently I am taking the RS School Front-end course. And I'am going to continue my mind blowning journey into the world of IT, to achieve success, embrace the unknown, seize opportunities, never backing down from a challenge.
 
-### Skills and tools
+
+## Skills and tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
 
-### My Projects
+
+## My Projects
 
  Project title            |   Deploy link
 --------------------------|:-----------------------:
