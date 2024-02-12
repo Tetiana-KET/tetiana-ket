@@ -1,6 +1,7 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=Hello%2C+I'm+Tatiana%2C+a+passionate+newcomer+to+the+world+of+frontend+development!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=Hello%2C+I'm+Tatiana%2C+a+passionate+newcomer+to+the+world+of+frontend+development!)](https://git.io/typing-svg)
 
-### **[Link to my Video CV](https://youtu.be/uJQMlCJasOU)**
+## **[Link to my Video CV](https://youtu.be/uJQMlCJasOU)**
+##
 
 ## My Contacts
 
@@ -10,7 +11,7 @@
 * __Discord:__  [Tetiana-KET](https://discordapp.com/users/674720964143218723)
 * __Telegram:__ [Send me a message in telegram](https://t.me/Tatiana_1000_Dribnyz)
 * __GitHub:__   [Tetiana-KET](https://github.com/Tetiana-KET)
-
+##
 
 ## About Me
 
@@ -19,7 +20,7 @@ I graduated with a degree in foreign languages from Fedkovech Chernovtsy Univers
 My journey into coding wasn't a childhood dream or a calculated career move. It began accidentally, for fun. But, I found myself drawn to the magic of JavaScript.
 
 Currently I am taking the RS School Front-end course. And I'am going to continue my mind blowning journey into the world of IT, to achieve success, embrace the unknown, seize opportunities, never backing down from a challenge.
-
+##
 
 ## Skills and tools
 
@@ -28,6 +29,7 @@ Currently I am taking the RS School Front-end course. And I'am going to continue
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img alt="JavaScript" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
 
+## 
 
 ## My Projects
 
