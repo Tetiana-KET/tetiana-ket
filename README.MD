@@ -21,14 +21,15 @@
 * 🌟 __I believe that each challenge is an opportunity for growth and learning, and I'm committed to embracing them along my journey.__
 
 
-## Skills and Tools
+## Skills and tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
+<img align="left" alt="VC Code" width="26px" src="https://code.visualstudio.com/assets/favicon.ico"/>
+<img alt="codewars" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
 
-![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png) | ![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png) | ![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) | ![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) | ![VS Code](https://code.visualstudio.com/assets/favicon.ico)
 
 ## My Projects
 
