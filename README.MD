@@ -22,11 +22,11 @@ Currently I am taking the RS School Front-end course. And I'am going to continue
 
 ## Skills and tools
 
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img alt="JavaScript" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
-<div></div>
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="display: inline-block"/>
+<img alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="display: inline-block"/>
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="display: inline-block"/>
+<img alt="JavaScript" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" style="display: inline-block"/>
+
 
 ## My Projects
 
