@@ -34,21 +34,14 @@
 ## My Projects
 
 
-<img align="left" alt="Nonograms-game" width="50px" src="./img/nonogramg.png/>
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-<img align="left" alt="VC Code" width="26px" src="https://code.visualstudio.com/assets/favicon.ico"/>
-<img alt="codewars" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
-
-[![Nonograms-game](./img/nonogramg.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/nonograms/index.html)
-[![Hangman-game](./img/hangman.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/hangman/index.html)
-[![Coffee-house](./img/coffee.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/coffee-house/pages/Home/index.html)
-[![Library](./img/library.png)](https://tetiana-ket.github.io/Library/)
-[![Css Bayan](./img/mem.png)](https://tetiana-ket.github.io/cssBayan/cssBayan/index.html)
-[![Plants](./img/plants.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFEPRESCHOOL2022Q4/Plants/pages/main/index.html)
-[![Virtual-keyboard](./img/keyboard.png)](https://tetiana-ket.github.io/virtual-keyboard/src/index.html)
-[![Shelter](./img/shelter.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/shelter/pages/main/index.html)
-[![Minesweeper](./img/minesweeper.png)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/minesweeper/dist/index.html)
-[![Travel](./img/travel.png)](https://tetiana-ket.github.io/Travel/)
-[![Online-zoo](./img/zoo.png)](https://tetiana-ket.github.io/online-zoo/pages/main/index.html)
+[![Nonograms-game](./img/nonogramg.png =100x100)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/nonograms/index.html)
+[![Hangman-game](./img/hangman.png =100x100)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/hangman/index.html)
+[![Coffee-house](./img/coffee.png =100x100)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/coffee-house/pages/Home/index.html)
+[![Library](./img/library.png =100x100)](https://tetiana-ket.github.io/Library/)
+[![Css Bayan](./img/mem.png =100x100)](https://tetiana-ket.github.io/cssBayan/cssBayan/index.html)
+[![Plants](./img/plants.png =100x100)](https://rolling-scopes-school.github.io/tetiana-ket-JSFEPRESCHOOL2022Q4/Plants/pages/main/index.html)
+[![Virtual-keyboard](./img/keyboard.png =100x100)](https://tetiana-ket.github.io/virtual-keyboard/src/index.html)
+[![Shelter](./img/shelter.png =100x100)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/shelter/pages/main/index.html)
+[![Minesweeper](./img/minesweeper.png =100x100)](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/minesweeper/dist/index.html)
+[![Travel](./img/travel.png =100x100)](https://tetiana-ket.github.io/Travel/)
+[![Online-zoo](./img/zoo.png =100x100)](https://tetiana-ket.github.io/online-zoo/pages/main/index.html)
