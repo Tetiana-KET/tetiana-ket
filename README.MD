@@ -1,6 +1,6 @@
 ## Hello, I'm Tatiana! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=I+am+a+passionate+newcomer+to+the+world+of+frontend+development!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=I+am+a+frontend+end+developer!)](https://git.io/typing-svg)
 
 ### [🎥 Link to my Video CV](https://youtu.be/uJQMlCJasOU)
 
