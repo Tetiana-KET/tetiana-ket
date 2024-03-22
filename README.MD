@@ -51,7 +51,7 @@
   <img align="left" alt="Webpack" width="30px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png"/>
 </a>
 <a href="https://vitejs.dev/" target="_blank">
-  <img align="left" alt="Vite" width="26px" src="https://avatars.githubusercontent.com/u/61281057?s=200&v=4"/>
+  <img align="left" alt="Vite" width="26px" src="https://vitejs.dev/logo-with-shadow.png"/>
 </a>
 <a href="https://www.codewars.com/" target="_blank">
   <img alt="codewars" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
