@@ -36,6 +36,7 @@
 
 | Project Title            | Deploy Link                                                        |
 |--------------------------|:-------------------------------------------------------------------|
+| RSS Puzzle              | [RSS Puzzle](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/rss-puzzle/index.html)     |
 | Nonograms-game          | [Nonograms-game](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/nonograms/index.html)     |
 | Hangman-game            | [Hangman-game](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/hangman/index.html)         |
 | Coffee-house            | [Coffee-house](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/coffee-house/pages/Home/index.html) |
