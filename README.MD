@@ -64,8 +64,11 @@
 
 ## My Educational Projects
 
-| Project Title            | Deploy Link                                                        |
+| Project Title/Task Link            | Deploy Link                                                        |
 |--------------------------|:-------------------------------------------------------------------|
+| [eCommerce Application](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application)        | [eCommerce Application](https://github.com/Tetiana-KET/eCommerce-Application/blob/develop/README.md)                       |
+| [Async Race](https://github.com/rolling-scopes-school/tasks/blob/master/stage2/tasks/async-race/README.md)        | [Async Race](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/tree/async-race/README.md)                       |
+| [Fun Chat](https://github.com/rolling-scopes-school/tasks/blob/master/stage2/tasks/fun-chat/README.md)            | [Fun Chat](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/tree/fun-chat/README.md)                           |
 | RSS Puzzle              | [RSS Puzzle](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/rss-puzzle/index.html)     |
 | Nonograms-game          | [Nonograms-game](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/nonograms/index.html)     |
 | Hangman-game            | [Hangman-game](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/hangman/index.html)         |
