@@ -63,15 +63,19 @@
 </a>
 
 ## 🏆 Certificates
+- <a href="https://reactjs.org/" target="_blank">
+JS/FE Pre-School 2022Q4
+  <img align="left" alt="React" width="26px" src="https://rs.school/assets/html-ICuzc4H5.webp"/>
+</a>
 
-__<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
+- __<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
   JavaScript/Front-end 2023Q4
 </a>__
-__<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
-  JS/FE Pre-School 2022Q4
+- __<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
+  
 </a>__
 
-
+	
 
 ## My Educational Projects
 
