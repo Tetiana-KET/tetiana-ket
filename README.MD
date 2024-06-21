@@ -17,9 +17,10 @@
 
 - 🎓 I graduated with a degree in __foreign languages__ from Fedkovech Chernovtsy University.
 - ✈️ My journey into coding began accidentally, for fun. But, I found myself drawn to the magic of JavaScript.
-- 💻 Currently, I am taking the __RS School Front-end course__ and I'm excited to continue my journey into the world of IT.
+- 💻 I have completed __JavaScript / Front-end Course__ with excellent result.
+- 🚀 Currently, I am taking the __RS School React Course__ and I'm excited to continue my journey into the world of IT.
 - 🌟 __I believe that each challenge is an opportunity for growth and learning, and I'm committed to embracing them along my journey.__
-
+- 🔥 __I am confident that there is nothing I cannot do. There are things I do not know how to do yet, but I will learn.__
 
 ## Skills and tools
 
