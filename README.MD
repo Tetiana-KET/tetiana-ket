@@ -6,9 +6,10 @@
 
 ## My Contacts
 
-* __Location:__ Ukraine 🇺🇦
+* __Location: Ukraine 🇺🇦 (Western part)
+(I have a generator, so I currently have no electricity issues. ⚡)
 * __E-mail:__   [Send me email](mailto:belangelphone@gmail.com)
-* __Phone:__    [+380505551402](tel:+380505551402)
+* __Phone:__    [+380507368706](tel:+380507368706)
 * __Discord:__  [Tetiana-KET](https://discordapp.com/users/674720964143218723)
 * __Telegram:__ [Send me a message in telegram](https://t.me/Tatiana_1000_Dribnyz)
 * __GitHub:__   [Tetiana-KET](https://github.com/Tetiana-KET)
