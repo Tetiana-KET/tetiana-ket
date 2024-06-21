@@ -85,8 +85,8 @@
 | Css Bayan(https://github.com/Tetiana-KET/cssBayan)               | Css Bayan()               | [Css Bayan](https://tetiana-ket.github.io/cssBayan/cssBayan/index.html)      |
 | Plants(https://github.com/Tetiana-KET/Plants)                  | Plants()                  | [Plants](https://rolling-scopes-school.github.io/tetiana-ket-JSFEPRESCHOOL2022Q4/Plants/pages/main/index.html) |
 | Virtual-keyboard(https://github.com/Tetiana-KET/virtual-keyboard)        | Virtual-keyboard()        | [Virtual-keyboard](https://tetiana-ket.github.io/virtual-keyboard/src/index.html) |
-| Shelter()                 | Shelter()                 | [Shelter](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/shelter/pages/main/index.html) |
-| Minesweeper()             | Minesweeper()             | [Minesweeper](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/minesweeper/dist/index.html) |
-| Travel(https://github.com/Tetiana-KET/Travel)                  | Travel()                  | [Travel](https://tetiana-ket.github.io/Travel/)                               |
-| Oneline-Zoo(https://github.com/Tetiana-KET/online-zoo)             | Oneline-Zoo()             | [Oneline-Zoo ](https://tetiana-ket.github.io/online-zoo/pages/main/index.html) |
-| momentum(https://github.com/Tetiana-KET/momentum)             | Oneline-Zoo()             | [Oneline-Zoo ](https://tetiana-ket.github.io/online-zoo/pages/main/index.html) |
+| Shelter                 | [Shelter](https://github.com/rolling-scopes-school/tasks/blob/eb98353fb0a0f67945afff7759f21e61d520e495/tasks/shelter/shelter.md#L4)                 | [Shelter](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/shelter/pages/main/index.html) |
+| Minesweeper             | [Minesweeper](https://github.com/rolling-scopes-school/tasks/tree/eb98353fb0a0f67945afff7759f21e61d520e495/tasks/minesweeper)             | [Minesweeper](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/minesweeper/dist/index.html) |
+| [Travel](https://github.com/Tetiana-KET/Travel)                  | [Travel](https://github.com/rolling-scopes-school/tasks/blob/eb98353fb0a0f67945afff7759f21e61d520e495/tasks/travel/travel.md)                  | [Travel](https://tetiana-ket.github.io/Travel/)                               |
+| [Oneline-Zoo](https://github.com/Tetiana-KET/online-zoo)             | [Oneline-Zoo](https://github.com/rolling-scopes-school/tasks/tree/eb98353fb0a0f67945afff7759f21e61d520e495/tasks/online-zoo)             | [Oneline-Zoo ](https://tetiana-ket.github.io/online-zoo/pages/main/index.html) |
+
