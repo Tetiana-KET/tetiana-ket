@@ -62,7 +62,14 @@
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/>
 </a>
 
+## 🏆 Certificates
 
+__<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
+  JavaScript/Front-end 2023Q4
+</a>__
+__<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
+  JS/FE Pre-School 2022Q4
+</a>__
 
 
 
