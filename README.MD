@@ -6,7 +6,7 @@
 
 ## My Contacts
 
-* __Location: Ukraine 🇺🇦 (Western part)__
+* __Location: Ukraine (Western part)__
 * I have a generator, so I currently have no electricity issues. ⚡
 * __E-mail:__   [Send me email](mailto:belangelphone@gmail.com)
 * __Phone:__    [+380507368706](tel:+380507368706)
