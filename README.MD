@@ -8,8 +8,8 @@
 
 * __Location: Ukraine (Western part)__
 * I have a generator, so I currently have no electricity issues. ⚡
-* __E-mail:__   [Send me email](mailto:belangelphone@gmail.com)
-* __Phone:__    [+380507368706](tel:+380507368706)
+* __E-mail:__   [Send me email](mailto:belangelphone@gmail.com) ✉️
+* __Phone:__    [+380507368706](tel:+380507368706) 📞
 * __Discord:__  [Tetiana-KET](https://discordapp.com/users/674720964143218723)
 * __Telegram:__ [Send me a message in telegram](https://t.me/Tatiana_1000_Dribnyz)
 * __GitHub:__   [Tetiana-KET](https://github.com/Tetiana-KET)
@@ -64,17 +64,17 @@
 
 ## 🏆 Certificates
 
-- __<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
+- 📜 __<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
   JavaScript/Front-end 2023Q4
 </a>__
-- __<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
+- 📜 __<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
   JS/FE Pre-School 2022Q4
 </a>__
 
 	
-## [Earlier Educational projects](https://github.com/Tetiana-KET/Educational-projects/blob/main/README.md)
+## 📚 [Earlier Educational projects](https://github.com/Tetiana-KET/Educational-projects/blob/main/README.md)
 
-## [Educational projects completed as part of the JavaScript/Front-end course](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/blob/main/README.md)
+## 📚 [Educational projects completed as part of the JavaScript/Front-end course](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/blob/main/README.md)
 
 | Completed | Project Repo                                                                                             | Task description Link                                                                                                           | Deploy Link                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
