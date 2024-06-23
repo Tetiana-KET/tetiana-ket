@@ -64,12 +64,12 @@
 
 ## 🏆 Certificates
 
-### 📜 __<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
+### 📜 <a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
   JavaScript/Front-end 2023Q4
-</a>__
-### 📜 __<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
+</a>
+### 📜 <a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
   JS/FE Pre-School 2022Q4
-</a>__
+</a>
 
 	
 ## 📚 [Earlier Educational projects](https://github.com/Tetiana-KET/Educational-projects/blob/main/README.md)
