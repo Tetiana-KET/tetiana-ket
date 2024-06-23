@@ -72,9 +72,9 @@
 </a>__
 
 	
-## [JavaScript / Front-end Course projects 01.11.2023 - 18.06.2023](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/blob/main/README.md)
+## [Earlier Educational projects](https://github.com/Tetiana-KET/Educational-projects/blob/main/README.md)
 
-## All my Educational Projects
+## Educational projects completed as part of the [JavaScript/Front-end course from 01.11.2023 to 18.06.2023](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/blob/main/README.md)
 
 | Completed | Project Repo                                                                                             | Task description Link                                                                                                           | Deploy Link                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -89,11 +89,4 @@
 | Data | [self-introduction](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/tree/self-introduction)         | [Self-introduction ](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/self-introduction)               | [Self-introduction](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/blob/self-introduction/self-introduction/index.md)             |
 | Data | [code-review](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/tree/code-review)                     | [Code Review](https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/code-review)                              | [Code Review](https://github.com/rolling-scopes-school/tetiana-ket-JSFE2023Q4/pull/54)                                                 |
 | Data | [typescript-essentials](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/tree/typescript-essentials) | [typescript-essentials](https://github.com/rolling-scopes-school/tasks/blob/master/stage2/tasks/TypeScriptEssentials/README.md) | [typescript-essentials](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/blob/typescript-essentials/typescript-essentials/index.md) |
-| Data | [Library](https://github.com/Tetiana-KET/Library)                 |[Library](https://github.com/rolling-scopes-school/tasks/tree/eb98353fb0a0f67945afff7759f21e61d520e495/tasks/library)                 | [Library](https://tetiana-ket.github.io/Library/)                            |
-| Data | [Plants](https://github.com/Tetiana-KET/Plants)                  | [Plants](https://github.com/rolling-scopes-school/tasks/blob/eb98353fb0a0f67945afff7759f21e61d520e495/tasks/plants/plants.md)                  | [Plants](https://rolling-scopes-school.github.io/tetiana-ket-JSFEPRESCHOOL2022Q4/Plants/pages/main/index.html) |
-| Data | [Virtual-keyboard](https://github.com/Tetiana-KET/virtual-keyboard)        | [Virtual-keyboard](https://github.com/rolling-scopes-school/tasks/blob/eb98353fb0a0f67945afff7759f21e61d520e495/tasks/virtual-keyboard/virtual-keyboard-ru.md)        | [Virtual-keyboard](https://tetiana-ket.github.io/virtual-keyboard/src/index.html) |
-| Data | Shelter                 | [Shelter](https://github.com/rolling-scopes-school/tasks/blob/eb98353fb0a0f67945afff7759f21e61d520e495/tasks/shelter/shelter.md#L4)                 | [Shelter](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/shelter/pages/main/index.html) |
-| Data | Minesweeper             | [Minesweeper](https://github.com/rolling-scopes-school/tasks/tree/eb98353fb0a0f67945afff7759f21e61d520e495/tasks/minesweeper)             | [Minesweeper](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q1/minesweeper/dist/index.html) |
-| Data | [Travel](https://github.com/Tetiana-KET/Travel)                  | [Travel](https://github.com/rolling-scopes-school/tasks/blob/eb98353fb0a0f67945afff7759f21e61d520e495/tasks/travel/travel.md)                  | [Travel](https://tetiana-ket.github.io/Travel/)                               |
-| Data | [Oneline-Zoo](https://github.com/Tetiana-KET/online-zoo)             | [Oneline-Zoo](https://github.com/rolling-scopes-school/tasks/tree/eb98353fb0a0f67945afff7759f21e61d520e495/tasks/online-zoo)             | [Oneline-Zoo ](https://tetiana-ket.github.io/online-zoo/pages/main/index.html) |
 
