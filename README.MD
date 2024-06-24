@@ -34,7 +34,7 @@
 - 🌟 __I believe that each challenge is an opportunity for growth and learning, and I'm committed to embracing them along my journey.__
 - 🔥 __I am confident that there is nothing I cannot do. There are things I do not know how to do yet, but I will learn.__
 
-## Skills and tools
+## 🛠 Skills and tools
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
