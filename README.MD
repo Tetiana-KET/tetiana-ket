@@ -88,8 +88,8 @@
 
 ## 📚 [Educational projects completed as part of the JavaScript/Front-end course](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/blob/main/README.md)
 
-| Completed | Project Repo                                                                                             Deploy Link                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------  :------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Completed | Project Repo                                                                                  |           Deploy Link                                                                                                                            |
+| ----------|-----------------------------------------------------------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------- |
 | 18.06.2024 | [ECommerce Application](https://github.com/Tetiana-KET/eCommerce-Application)                        [Deploy](https://ecommerce-sprint-4-release.netlify.app/about)                                     |
 | 30.04.2024 | [Presentation](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/tree/presentation)                    [Deploy](https://662e28923c7ed9abe653036d--sunny-moonbeam-a5aa78.netlify.app/)                                                   |
 | 22.04.2024| [Fun-chat](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/tree/fun-chat)                            [Deploy](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/tree/fun-chat/README.md)                                                |
