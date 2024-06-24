@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
  </a>
  <a href="https://discordapp.com/users/674720964143218723" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-0000CD?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
  </a>
  <a href="https://www.linkedin.com/in/tatiana-shpakova-51b5a62a0/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
