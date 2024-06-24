@@ -20,7 +20,7 @@
  <a href="https://discordapp.com/users/674720964143218723" target="_blank">
   <img src="https://img.shields.io/badge/Discord-0000CD?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
  </a>
- <a href="www.linkedin.com/in/tatiana-shpakova-51b5a62a0" target="_blank">
+ <a href="https://www.linkedin.com/in/tatiana-shpakova-51b5a62a0/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
  </a>
 </div>
