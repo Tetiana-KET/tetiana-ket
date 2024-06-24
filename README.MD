@@ -7,7 +7,7 @@
 ## My Contacts
 
 * __Location: Ukraine (Western part)__
-* I have a generator, so I currently have no electricity issues. ⚡
+* I have a generator, so I currently have **no** electricity issues. ⚡
 * __Phone:__    [+380507368706](tel:+380507368706) 📞
 
 <div id="badges">
