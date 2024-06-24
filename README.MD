@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Discord-0000CD?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
  </a>
  <a href="https://www.linkedin.com/in/tatiana-shpakova-51b5a62a0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  </a>
 </div>
 
