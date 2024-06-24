@@ -8,11 +8,22 @@
 
 * __Location: Ukraine (Western part)__
 * I have a generator, so I currently have no electricity issues. ⚡
-* __E-mail:__   [Send me email](mailto:belangelphone@gmail.com) ✉️
 * __Phone:__    [+380507368706](tel:+380507368706) 📞
-* __Discord:__  [Tetiana-KET](https://discordapp.com/users/674720964143218723)
-* __Telegram:__ [Send me a message in telegram](https://t.me/Tatiana_1000_Dribnyz)
-* __GitHub:__   [Tetiana-KET](https://github.com/Tetiana-KET)
+
+<div id="badges">
+ <a href="https://t.me/Tatiana_1000_Dribnyz" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+ </a>
+ <a href="mailto:belangelphone@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
+ </a>
+ <a href="https://discordapp.com/users/674720964143218723" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-0000CD?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
+ </a>
+ <a href="www.linkedin.com/in/tatiana-shpakova-51b5a62a0" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
+ </a>
+</div>
 
 ## About Me
 
