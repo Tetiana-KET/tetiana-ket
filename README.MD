@@ -86,7 +86,7 @@
 	
 ## 📚 [Earlier Educational projects](https://github.com/Tetiana-KET/Educational-projects/blob/main/README.md)
 
-## 📚 [Educational projects completed as part of the JavaScript/Front-end course](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/blob/main/README.md)
+## 📚 [Educational projects completed as part of the RS School JavaScript/Front-end course](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/blob/main/README.md)
 
 | Completed | Project Repo                                                                                  |           Deploy Link                                                                                                                            |
 | ----------|-----------------------------------------------------------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------- |
