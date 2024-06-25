@@ -20,7 +20,7 @@
  <a href="https://discordapp.com/users/674720964143218723" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
  </a>
- <a href="https://www.linkedin.com/in/tatiana-shpakova-51b5a62a0/" target="_blank">
+ <a href="https://www.linkedin.com/in/tatiana-ket/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  </a>
 </div>
