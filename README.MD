@@ -35,6 +35,13 @@
 - 🌟 __I believe that each challenge is an opportunity for growth and learning, and I'm committed to embracing them along my journey.__
 - 🔥 __I am confident that there is nothing I cannot do. There are things I do not know how to do yet, but I will learn.__
 
+###  I am seeking an internship opportunity with part-time engagement to gain my first professional experience in the tech industry. 💻✨
+<p>As a dedicated and passionate learner, I am currently diving deep into React through a course at RS School for the next three months.
+I believe this hands-on experience will perfectly complement my ongoing studies and help me apply my knowledge in real-world projects.
+If your company is looking for a hardworking, punctual, and responsible intern who is eager to learn and contribute, 
+I would love to connect! Let's discuss how I can bring value to your team while continuing to develop my skills. 🌟
+Feel free to check out my resume attached below and reach out if you have any opportunities or advice. Thank you!</p>
+
 ## 🛠 Skills and tools
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
