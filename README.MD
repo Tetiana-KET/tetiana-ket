@@ -9,7 +9,7 @@
 
 * __Location: Ukraine (Western part)__
 * I have a generator, so I currently have **no** electricity issues. ⚡
-* __Phone:__    [+380505551402](tel:+380505551402) 📞
+* __Phone:__    [+380507368706](tel:+380507368706) 📞
 
 <div id="badges">
  <a href="https://t.me/Tatiana_1000_Dribnyz" target="_blank">
