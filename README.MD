@@ -35,12 +35,12 @@
 - 🌟 __I believe that each challenge is an opportunity for growth and learning, and I'm committed to embracing them along my journey.__
 - 🔥 __I am confident that there is nothing I cannot do. There are things I do not know how to do yet, but I will learn.__
 
-###  I am actively seeking an internship opportunity to gain my first professional experience in the tech industry. 💻✨
-<p> Recently, I successfully completed the RS School JavaScript/Front-end Course with excellent results and received a certificate. Currently, I am furthering my skills by studying React at RS School.
+###  I am actively seeking an internship opportunity to gain my first professional experience in the tech industry. 💻
+<p> Recently, I successfully completed the RS School JavaScript/Front-end Course with excellent results and received a certificate. Currently, I am furthering my skills by studying React at RS School.✨
 
 During the 8-month RS School JavaScript/Front-end Course, I completed a variety of projects, ranging from responsive websites with features like burger menus and sliders to more complex applications that required advanced JavaScript skills. I have hands-on experience with JavaScript, TypeScript, HTML, CSS, WebSocket, REST API, Git, SPA, Scrum, Kanban, and React.js.
 
-If your company is seeking a hardworking, punctual, and responsible intern who is eager to learn and contribute, I would be delighted to connect with you. I am enthusiastic about bringing value to your team while continuing to develop my skills. 🌟
+If your company is seeking a hardworking, punctual, and responsible intern who is eager to learn and contribute, I would be delighted to connect with you. I am enthusiastic about bringing value to your team while continuing to develop my skills.
 
 </p>
 
