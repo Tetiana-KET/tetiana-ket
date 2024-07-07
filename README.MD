@@ -26,9 +26,9 @@
  </a>
 </div>
 
-## About Me
+## About Me ✨
 
-###  I am actively seeking an internship opportunity to gain my first professional experience in the tech industry. 💻✨
+###  I am actively seeking an internship opportunity to gain my first professional experience in the tech industry. 💻
 
 - 🎓 I graduated with a degree in __foreign languages__ from Fedkovech Chernovtsy University.
 - ✈️ My journey into coding began accidentally, for fun. But, I found myself drawn to the magic of JavaScript.
