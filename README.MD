@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=There+is+nothing,+I+can't+do!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=There+are+things+I+do+not+know+how+to+do+YET!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=But+I+will+find+it+out,+for+sure!)](https://git.io/typing-svg)
 
 ### [🎥 Link to my Video CV](https://youtu.be/uJQMlCJasOU)
 ### [📰 Link to my CV](https://tetiana-ket.github.io/Resume-short/)
@@ -29,14 +30,13 @@
 
 ## About Me ✨
 
-###  I am actively seeking an internship opportunity to gain my first professional experience in the tech industry. 💻
+###  I am actively seeking an internship opportunity to gain my first ***professional*** experience in development. 💻
 
-- 🎓 I graduated with a degree in __foreign languages__ from Fedkovech Chernovtsy University.
-- ✈️ My journey into coding began accidentally, for fun. But, I found myself drawn to the magic of JavaScript.
 - 💻 I have completed __JavaScript / Front-end Course__ with excellent result.
 - 🚀  I am furthering my skills by taking the __RS School React Course__.
+- 🎓 I graduated with a degree in __foreign languages__ from Fedkovech Chernovtsy University.
 - 🌟 __I believe that each challenge is an opportunity for growth and learning, and I'm committed to embracing them along my journey.__
-- 🔥 __I am confident that there is nothing I cannot do. There are things I do not know how to do yet, but I will learn.__
+
 
 
 <p> During the 8-month RS School JavaScript/Front-end Course, I completed a variety of projects, ranging from responsive websites with features like burger menus and sliders to more complex applications that required advanced JavaScript skills. I have hands-on experience with JavaScript, TypeScript, HTML, CSS, WebSocket, REST API, Git, SPA, Scrum, Kanban, and React.js.
