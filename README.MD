@@ -101,6 +101,7 @@ If your company is seeking a hardworking, punctual, and responsible intern who i
 
 | Completed | Project Repo                                                                                  |           Deploy Link                                                                                                                            |
 | ----------|-----------------------------------------------------------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------- |
+| 22.07.2024 | [Star Wars Heros](https://github.com/Tetiana-KET/RS-School-React-2024Q3)                 |        [Deploy](https://app-state-management.netlify.app/)                                     |
 | 10.07.2024 | [Test Task React - Quiz app](https://github.com/Tetiana-KET/Test-Task-React/blob/master/README.md)                 |        [Deploy](https://quiz-test-task-react.netlify.app/)                                     |
 | 18.06.2024 | [ECommerce Application](https://github.com/Tetiana-KET/eCommerce-Application)                 |        [Deploy](https://ecommerce-sprint-4-release.netlify.app/about)                                     |
 | 30.04.2024 | [Presentation](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/tree/presentation)           |          [Deploy](https://662e28923c7ed9abe653036d--sunny-moonbeam-a5aa78.netlify.app/)                                                   |
