@@ -9,8 +9,6 @@
 ## My Contacts
 
 * __Location: Ukraine (Western part)__
-* Ready to work full time (remote)
-* I have a generator, so I currently have **no** electricity issues. ⚡
 * __Phone:__    [+380507368706](tel:+380507368706) 📞
 
 <div id="badges">
@@ -36,6 +34,8 @@
 - 🚀  I am furthering my skills by taking the __RS School React Course__.
 - 🎓 I graduated with a degree in __foreign languages__ from Fedkovech Chernovtsy University.
 - 🌟 __I believe that each challenge is an opportunity for growth and learning, and I'm committed to embracing them along my journey.__
+- Ready to work full time (remote)
+- I have a generator, so I currently have **no** electricity issues. ⚡
 
 
 
