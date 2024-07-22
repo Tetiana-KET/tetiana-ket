@@ -28,7 +28,7 @@
 
 ## About Me ✨
 
-###  I am actively seeking an internship opportunity to gain my first ***professional*** experience in development. 💻
+###  I'm an enthusiastic and detail-oriented Junior Frontend Developer with approximately one year of experience. I am seeking an entry-level position to contribute to the growth of the company and further my personal development. 💻
 
 - 💻 I have completed __JavaScript / Front-end Course__ with excellent result.
 - 🚀  I am furthering my skills by taking the __RS School React Course__.
@@ -37,13 +37,6 @@
 - Ready to work full time (remote)
 - I have a generator, so I currently have **no** electricity issues. ⚡
 
-
-
-<p> During the 8-month RS School JavaScript/Front-end Course, I completed a variety of projects, ranging from responsive websites with features like burger menus and sliders to more complex applications that required advanced JavaScript skills. I have hands-on experience with JavaScript, TypeScript, HTML, CSS, WebSocket, REST API, Git, SPA, Scrum, Kanban, and React.js. A list of completed tasks with repository links can be found below.
-
-If your company is seeking a hardworking, punctual, and responsible intern who is eager to learn and contribute, I would be delighted to connect with you. I am enthusiastic about bringing value to your team while continuing to develop my skills.
-
-</p>
 
 ## 🛠 Skills and tools
 
