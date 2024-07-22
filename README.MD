@@ -94,9 +94,7 @@ If your company is seeking a hardworking, punctual, and responsible intern who i
   JS/FE Pre-School 2022Q4
 </a>__
 
-	
-## 📚 [Educational projects completed as part of the RS School JavaScript/Front-end course](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/blob/main/README.md)
-
+## 🗂️ Portfolio 	
 | Completed | Project Repo                                                                                  |           Deploy Link                                                                                                                            |
 | ----------|-----------------------------------------------------------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------- |
 | 22.07.2024 | [Star Wars Heros](https://github.com/Tetiana-KET/RS-School-React-2024Q3)                 |        [Deploy](https://app-state-management.netlify.app/)                                     |
@@ -113,6 +111,6 @@ If your company is seeking a hardworking, punctual, and responsible intern who i
 | 12.01.2024 | [Hangman](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/tree/hangman)                            | [Deploy](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/hangman/index.html)                                      |
 | 08.12.2023 | [Coffee-house](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/tree/coffee-house)                   |  [Deploy](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/coffee-house/pages/Home/index.html)                      |
 
-
+## 📚 [Educational projects completed as part of the RS School JavaScript/Front-end course](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/blob/main/README.md)
 ### 📚 [Earlier Educational projects](https://github.com/Tetiana-KET/Educational-projects/blob/main/README.md)
 
