@@ -95,8 +95,6 @@ If your company is seeking a hardworking, punctual, and responsible intern who i
 </a>__
 
 	
-## 📚 [Earlier Educational projects](https://github.com/Tetiana-KET/Educational-projects/blob/main/README.md)
-
 ## 📚 [Educational projects completed as part of the RS School JavaScript/Front-end course](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/blob/main/README.md)
 
 | Completed | Project Repo                                                                                  |           Deploy Link                                                                                                                            |
@@ -116,5 +114,5 @@ If your company is seeking a hardworking, punctual, and responsible intern who i
 | 08.12.2023 | [Coffee-house](https://github.com/Tetiana-KET/RS-School-JSFE2023Q4/tree/coffee-house)                   |  [Deploy](https://rolling-scopes-school.github.io/tetiana-ket-JSFE2023Q4/coffee-house/pages/Home/index.html)                      |
 
 
-
+### 📚 [Earlier Educational projects](https://github.com/Tetiana-KET/Educational-projects/blob/main/README.md)
 
