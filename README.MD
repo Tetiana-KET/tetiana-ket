@@ -28,7 +28,10 @@
 
 ## About Me ✨
 
-###  I'm an enthusiastic and detail-oriented Junior Frontend Developer with approximately one year of experience. I am seeking an entry-level position to contribute to the growth of the company and further my personal development. 💻
+### As a dedicated and detail-oriented Junior Frontend Developer with one year of handson experience, I am eager to contribute to innovative projects and enhance my skills.
+My goal is to leverage my expertise in JavaScript, React, and TypeScript to drive
+company growth, continuously improve my technical abilities, and contribute to team
+success 💻
 
 - 💻 I have completed __JavaScript / Front-end Course__ with excellent result.
 - 🚀  I am furthering my skills by taking the __RS School React Course__.
