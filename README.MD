@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=There+is+nothing,+I+can't+do!+There+are+things+I+don't+know+how+to+do+YET!)](https://git.io/typing-svg)
 
-
-### [🎥 Link to my Video CV](https://youtu.be/uJQMlCJasOU)
 ### [📰 Link to my CV](https://tetiana-ket.github.io/Resume-short/)
 
 ## My Contacts
