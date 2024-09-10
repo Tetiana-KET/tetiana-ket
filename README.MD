@@ -26,7 +26,7 @@
 
 ## About Me ✨
 
-### As a dedicated and detail-oriented Junior Frontend Developer with one year of hands-on experience, I am eager to contribute to innovative projects and enhance my skills. My goal is to use my expertise in JavaScript, React, and TypeScript to help the company grow, continuously improve my technical abilities, and contribute to team success. 💻
+### I am a dedicated and detail-oriented Junior Frontend Developer with about one year of hands-on experience, I am eager to contribute to innovative projects and enhance my skills. My goal is to use my expertise in JavaScript, React, and TypeScript to help the company grow, continuously improve my technical abilities, and contribute to team success. 💻
 
 - 💻 I have completed __JavaScript / Front-end Course__ with excellent result.
 - 🚀  I am furthering my skills by taking the __RS School React Course__.
