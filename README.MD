@@ -76,7 +76,10 @@
 </a>
 
 ## 🎓 Certificates
-
+- 📜 __<a href="https://app.rs.school/certificate/4c4rwrqc" target="_blank">
+  REACT 2024 Q3 (REACT)
+</a>__
+###
 - 📜 __<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
   JavaScript/Front-end 2023Q4
 </a>__
@@ -88,6 +91,8 @@
 ## 🗂️ Portfolio 	
 | Completed | Project Repo                                                                                  |           Deploy Link                                                                                                                            |
 | ----------|-----------------------------------------------------------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------- |
+| 27.09.2024 | [Events-Registration-App](https://github.com/Tetiana-KET/Events-Registration-App)                 |        [Deploy](https://graphiql-app-ktj5.vercel.app)                                     |
+| 14.09.2024 | [graphiql-app Team project](https://github.com/Tetiana-KET/graphiql-app)                 |        [Deploy](https://app-state-management.netlify.app/)                                     |
 | 22.07.2024 | [Star Wars Heros](https://github.com/Tetiana-KET/RS-School-React-2024Q3)                 |        [Deploy](https://app-state-management.netlify.app/)                                     |
 | 10.07.2024 | [Test Task React - Quiz app](https://github.com/Tetiana-KET/Test-Task-React/blob/master/README.md)                 |        [Deploy](https://quiz-test-task-react.netlify.app/)                                     |
 | 18.06.2024 | [ECommerce Application](https://github.com/Tetiana-KET/eCommerce-Application)                 |        [Deploy](https://ecommerce-sprint-4-release.netlify.app/about)                                     |
