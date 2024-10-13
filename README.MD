@@ -5,6 +5,9 @@
 ### [📰 Link to my CV](https://tetiana-ket.github.io/Resume-short/)
 
 ## My Contacts
+***
+---
+___
 
 * __Location: Ukraine (Western part)__
 * __Phone:__    [+380507368706](tel:+380507368706) 📞
