@@ -5,9 +5,6 @@
 ### [📰 Link to my CV](https://tetiana-ket.github.io/Resume-short/)
 
 ## My Contacts
-***
----
-___
 
 * __Location: Ukraine (Western part)__
 * __Phone:__    [+380507368706](tel:+380507368706) 📞
@@ -26,6 +23,7 @@ ___
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  </a>
 </div>
+***
 
 ## About Me ✨
 
@@ -37,6 +35,7 @@ ___
 - 🌟 __I believe that each challenge is an opportunity for growth and learning, and I'm committed to embracing them along my journey.__
 - Ready to work full time (remote)
 - I have a generator, so I currently have **no** electricity issues. ⚡
+***
 
 
 ## 🛠 Skills and tools
