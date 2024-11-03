@@ -83,7 +83,7 @@
   REACT 2024 Q3 (REACT)
 </a>__
 ###
-- 📜 __<a href="https://app.rs.school/certificate/5pnrsvrg" target="_blank">
+- 📜 __<a href="https://app.rs.school/certificate/r0gua8sg" target="_blank">
   JavaScript/Front-end 2023Q4
 </a>__
 ###
