@@ -77,6 +77,24 @@
 <a href="https://reactjs.org/" target="_blank">
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/>
 </a>
+<a href="https://nextjs.org/" target="_blank">
+  <img align="left" alt="Next.js" width="26px" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png"/>
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img align="left" alt="Node.js" width="26px" src="https://nodejs.org/static/images/logo.svg"/>
+</a>
+<a href="https://redux.js.org/" target="_blank">
+  <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png"/>
+</a>
+<a href="https://redux-toolkit.js.org/" target="_blank">
+  <img align="left" alt="RTK" width="26px" src="https://redux-toolkit.js.org/img/favicon/favicon.ico"/>
+</a>
+<a href="https://vitest.dev/" target="_blank">
+  <img align="left" alt="Vitest" width="26px" src="https://vitest.dev/favicon.svg"/>
+</a>
+<a href="https://jestjs.io/" target="_blank">
+  <img align="left" alt="Jest" width="26px" src="https://jestjs.io/img/favicon/favicon.ico"/>
+</a>
 
 ## 🎓 Certificates
 - 📜 __<a href="https://app.rs.school/certificate/4c4rwrqc" target="_blank">
