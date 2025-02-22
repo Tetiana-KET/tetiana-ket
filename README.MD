@@ -39,8 +39,8 @@ I'm a software engineer with hands-on experience building responsive web interfa
 - Additionally, I have foundational experience with Node.js and backend development, including working with databases such as MongoDB and PostgreSQL. 
 - I’m also proficient in using Sass to write maintainable and scalable styles.
 
-🎓 Graduated in Foreign Languages from Fedkovech Chernovtsy University.
-🌟 "Every challenge is an opportunity for growth and learning. I embrace each one with dedication."
+- 🎓 I graduated with a degree in __foreign languages__ from Fedkovech Chernovtsy University.
+- 🌟 __Every challenge is an opportunity for growth and learning. I embrace each one with dedication.__
 
 ***
 
