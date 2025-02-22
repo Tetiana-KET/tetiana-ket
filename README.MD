@@ -1,4 +1,4 @@
-## Hello, I'm Tatiana! I am front-end developer.👋
+## Hello, I'm Tatiana! I'm a software engineer.👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=There+is+nothing,+I+can't+do!+There+are+things+I+don't+know+how+to+do+YET!)](https://git.io/typing-svg)
 
@@ -26,16 +26,22 @@
 
 ---
 
-## About Me ✨
+About Me ✨
 
-### I am a dedicated and detail-oriented Junior Frontend Developer with about one year of hands-on experience, I am eager to contribute to innovative projects and enhance my skills. My goal is to use my expertise in JavaScript, React, and TypeScript to help the company grow, continuously improve my technical abilities, and contribute to team success. 💻
+I'm a software engineer with hands-on experience building responsive web interfaces using HTML, CSS, JavaScript, TypeScript, and React.js.
 
-- 💻 I have completed __JavaScript / Front-end Course__ and __RS School React Course__ with excellent result.
-- 🚀  I am furthering my skills by taking the __NodeJS Course__.
-- 🎓 I graduated with a degree in __foreign languages__ from Fedkovech Chernovtsy University.
-- 🌟 __I believe that each challenge is an opportunity for growth and learning, and I'm committed to embracing them along my journey.__
-- Ready to work full time (remote)
-- I have a generator, so I currently have **no** electricity issues. ⚡
+💡 My technical expertise includes:
+
+- State management with Redux Toolkit and RTK Query
+- API integration using REST, GraphQL, and WebSocket
+- Client-side routing and SSR with Next.js
+- UI libraries like Material UI, NextUI, and Tailwind CSS
+- Additionally, I have foundational experience with Node.js and backend development, including working with databases such as MongoDB and PostgreSQL. 
+- I’m also proficient in using Sass to write maintainable and scalable styles.
+
+🎓 Graduated in Foreign Languages from Fedkovech Chernovtsy University.
+🌟 "Every challenge is an opportunity for growth and learning. I embrace each one with dedication."
+
 ***
 
 
