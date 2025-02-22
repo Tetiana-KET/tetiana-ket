@@ -47,11 +47,29 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 </a>
+<a href="https://sass-lang.com/guide" target="_blank">
+  <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/8e3036e1b5fc54eb900c16ea8dc3867736e4d40c/topics/sass/sass.png"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout" target="_blank">
+  <img align="left" alt="CSS Grid" width="26px" src="https://raw.githubusercontent.com/github/explore/05d964c2c2dc5b3ee118d3f79b096a5ba413674a/topics/css/css.png"/>
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img align="left" alt="TypeScript" width="26px" src="https://github.com/remojansen/logo.ts/blob/master/ts.png?raw=true"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/>
+</a>
+<a href="https://nextjs.org/" target="_blank">
+  <img align="left" alt="Next.js" width="26px" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png"/>
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/>
+</a>
+<a href="https://redux-toolkit.js.org/" target="_blank">
+  <img align="left" alt="RTK" width="26px" src="https://redux-toolkit.js.org/img/favicon/favicon.ico"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
   <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
@@ -73,18 +91,6 @@
 </a>
 <a href="https://www.codewars.com/" target="_blank">
   <img alt="codewars" width="26px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"/>
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img align="left" alt="Next.js" width="26px" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png"/>
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/>
-</a>
-<a href="https://redux-toolkit.js.org/" target="_blank">
-  <img align="left" alt="RTK" width="26px" src="https://redux-toolkit.js.org/img/favicon/favicon.ico"/>
 </a>
 <a href="https://jestjs.io/" target="_blank">
   <img align="left" alt="Jest" width="26px" src="https://jestjs.io/img/favicon/favicon.ico"/>
