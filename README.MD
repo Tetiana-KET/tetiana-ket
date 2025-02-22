@@ -48,10 +48,10 @@
   <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 </a>
 <a href="https://sass-lang.com/guide" target="_blank">
-  <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/8e3036e1b5fc54eb900c16ea8dc3867736e4d40c/topics/sass/sass.png"/>
+  <img align="left" alt="Sass" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout" target="_blank">
-  <img align="left" alt="CSS Grid" width="26px" src="https://raw.githubusercontent.com/github/explore/05d964c2c2dc5b3ee118d3f79b096a5ba413674a/topics/css/css.png"/>
+  <img align="left" alt="CSS Grid" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
