@@ -28,17 +28,16 @@
 
 About Me ✨
 
-I'm a software engineer with hands-on experience building responsive web interfaces using HTML, CSS, JavaScript, TypeScript, and React.js.
+I have practical experience developing and optimizing web applications using React, HTML, CSS, and TypeScript/JavaScript. My skill set includes:
+✔️ React & React Hooks – building scalable, reusable components
+✔️ State Management – experience with React Context and Redux
+✔️ REST API & GraphQL – integrating frontend with backend services
+✔️ Asynchronous Programming – proficient with Promises and async/await
+✔️ CSS & Preprocessors – writing responsive styles using SASS and Tailwind CSS
+✔️ React Testing – familiar with Jest and component testing
+✔️ Version Control – experience using Git for collaborative development
 
-💡 My technical expertise includes:
-
-- State management with Redux Toolkit and RTK Query
-- API integration using REST, GraphQL, and WebSocket
-- Client-side routing and SSR with Next.js
-- UI libraries like Material UI, NextUI, and Tailwind CSS
-- Additionally, I have foundational experience with Node.js and backend development, including working with databases such as MongoDB and PostgreSQL. 
-- I’m also proficient in using Sass to write maintainable and scalable styles.
-
+I am also eager to expand my knowledge in areas such as Supabase, Node.js, and SQL, and I thrive in a team environment where learning and growth are encouraged.
 - 🎓 I graduated with a degree in __foreign languages__ from Fedkovech Chernovtsy University.
 - 🌟 __Every challenge is an opportunity for growth and learning. I embrace each one with dedication.__
 
