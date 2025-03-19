@@ -117,6 +117,7 @@ I have practical experience developing and optimizing web applications using Rea
 ## 🗂️ Portfolio 	
 | Completed | Project Repo                                                                                  |           Deploy Link                                                                                                                            |
 | ----------|-----------------------------------------------------------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------- |
+| 19.03.2025 | [Demo Book List](https://github.com/Tetiana-KET/demo_book_list/blob/main/README.md)                 |        [Deploy](https://github.com/Tetiana-KET/demo_book_list/blob/main/README.md)                                     |
 | 27.09.2024 | [Events-Registration-App](https://github.com/Tetiana-KET/Events-Registration-App)                 |        [Deploy](https://github.com/Tetiana-KET/Events-Registration-App/blob/main/README.md)                                     |
 | 14.09.2024 | [graphiql-app Team project](https://github.com/Tetiana-KET/graphiql-app)                 |        [Deploy](https://graphiql-app-ktj5.vercel.app)                                     |
 | 22.07.2024 | [Star Wars Heros](https://github.com/Tetiana-KET/RS-School-React-2024Q3)                 |        [Deploy](https://app-state-management.netlify.app/)                                     |
